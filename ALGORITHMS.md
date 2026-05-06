@@ -1,5 +1,5 @@
 
-```
+```bash
 > The best definition of an algorithm, synthesized from the sources, is a well-defined, step-by-step computational procedure that takes a value or set of values as input and transforms them into a specific output to solve a given problem
 . It can be viewed as a tool for solving a well-specified computational problem, acting as a recipe or a sequence of instructions that a computer or person follows to achieve a desired result:
 
