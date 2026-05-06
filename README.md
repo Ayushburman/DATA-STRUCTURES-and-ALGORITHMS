@@ -27,7 +27,10 @@ as a recipe or a sequence of instructions that a computer or person follows to a
 
 
 ----
+```bash
 
+> A computational problem is:
+. A clearly defined task that can be solved using an algorithm and executed by a computer.
 
-
+```
 
