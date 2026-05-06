@@ -34,3 +34,9 @@ as a recipe or a sequence of instructions that a computer or person follows to a
 
 ```
 
+---
+```
+Input = the data given to solve the problem
+Output = the final result produced after processing the input using an algorithm
+
+```
