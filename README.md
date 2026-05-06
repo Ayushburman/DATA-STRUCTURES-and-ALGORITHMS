@@ -49,18 +49,5 @@ as a recipe or a sequence of instructions that a computer or person follows to a
 6
 7
 8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-
 
 
