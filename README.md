@@ -87,3 +87,17 @@ For sorting, is_sorted(output) returns TRUE if the output satisfies the problem'
 Critical Property — Arbitrary Input Size
 An algorithm must work for 10 users, 10⁶ users, 10¹² users — not just small examples.
 Scalability is baked into the definition of a correct algorithm.
+
+
+What is an Algorithm?
+A problem defines what must be solved.
+An algorithm defines how to solve it — a finite, deterministic sequence of
+steps that transforms any valid input into a correct output.
+
+Problem
+"Sort numbers."
+Specifies only the goal — the input/output relationship.
+
+Algorithm
+"Compare, swap, repeat."
+Specifies the precise steps used to achieve that goal.
