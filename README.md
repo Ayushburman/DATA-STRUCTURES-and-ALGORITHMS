@@ -45,8 +45,12 @@ Algorithms &
 Computation
 MIT OpenCourseWare — 6.006 Introduction to Algorithms. Step-by-step notes with diagrams and visual understanding.
 
-
-
+Problem Solving
+Correctness Proofs
+Asymptotic Analysis
+Complexity Classes
+Data Structures
+Word-RAM Model
 
 
 
