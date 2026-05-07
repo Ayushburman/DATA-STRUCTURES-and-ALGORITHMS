@@ -56,5 +56,6 @@ What is the Goal of Studying Algorithms?
 Most beginners assume algorithms = writing code. That is incorrect. In computer science, algorithms are fundamentally about logical problem solving, proving a solution is correct, analysing its efficiency, and communicating it clearly to other humans.
 
 
-
+Core Insight
+A computer only executes instructions. But a computer scientist must convince professors, engineers, researchers, and teammates that: the solution works, it always works, and it is fast enough.
 
