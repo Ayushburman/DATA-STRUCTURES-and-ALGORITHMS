@@ -59,3 +59,7 @@ Most beginners assume algorithms = writing code. That is incorrect. In computer 
 Core Insight
 A computer only executes instructions. But a computer scientist must convince professors, engineers, researchers, and teammates that: the solution works, it always works, and it is fast enough.
 
+What Beginners Think
+Algorithms = writing code to produce output.
+✓ What CS Actually Demands
+Solving problems logically + proving correctness + demonstrating efficiency + explaining to humans.
