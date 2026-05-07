@@ -101,3 +101,12 @@ Specifies only the goal — the input/output relationship.
 Algorithm
 "Compare, swap, repeat."
 Specifies the precise steps used to achieve that goal.
+
+
+An algorithm behaves like a function f(input) = output.
+The output must satisfy the problem's predicate for every valid input.
+Same input + same steps → guaranteed predictable output.
+Deterministic
+Finite Steps
+Correct on All Valid Inputs
+Not Just "Code That Works on Examples"
