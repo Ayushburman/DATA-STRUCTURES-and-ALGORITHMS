@@ -52,5 +52,9 @@ Complexity Classes
 Data Structures
 Word-RAM Model
 
+What is the Goal of Studying Algorithms?
+Most beginners assume algorithms = writing code. That is incorrect. In computer science, algorithms are fundamentally about logical problem solving, proving a solution is correct, analysing its efficiency, and communicating it clearly to other humans.
+
+
 
 
