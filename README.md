@@ -63,3 +63,5 @@ What Beginners Think
 Algorithms = writing code to produce output.
 ✓ What CS Actually Demands
 Solving problems logically + proving correctness + demonstrating efficiency + explaining to humans.
+
+Problem ↓ Thinking ↓ Algorithm ↓ Proof of Correctness ↓ Efficiency Analysis ↓ Implementation (Code)
