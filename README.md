@@ -67,3 +67,7 @@ Solving problems logically + proving correctness + demonstrating efficiency + ex
 Problem ↓ Thinking ↓ Algorithm ↓ Proof of Correctness ↓ Efficiency Analysis ↓ Implementation (Code)
 
 When you claim "I made a sorting algorithm," people will immediately ask: Does it always sort correctly? What about huge inputs? How fast is it? Why is it correct? This is why proofs and analysis are first-class concerns — not afterthoughts.
+
+
+What is a Computational Problem?
+A problem is not code. A problem is a formal rule describing valid inputs and the set of correct outputs for each input.
