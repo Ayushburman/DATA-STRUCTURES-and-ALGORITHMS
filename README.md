@@ -41,16 +41,9 @@ as a recipe or a sequence of instructions that a computer or person follows to a
 
 ```
 -----
-1
-6
-7
-8
-9
-10
-11
-12
-13
-
+Algorithms &
+Computation
+MIT OpenCourseWare — 6.006 Introduction to Algorithms. Step-by-step notes with diagrams and visual understanding.
 
 
 
