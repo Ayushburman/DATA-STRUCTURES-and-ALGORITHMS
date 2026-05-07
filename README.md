@@ -71,3 +71,14 @@ When you claim "I made a sorting algorithm," people will immediately ask: Does i
 
 What is a Computational Problem?
 A problem is not code. A problem is a formal rule describing valid inputs and the set of correct outputs for each input.
+
+
+
+INPUT ──────► PROBLEM ──────► VALID OUTPUTS Example: [5, 1, 9, 3] ──► Sort ──► [1, 3, 5, 9] ✔ └────► [5, 1, 9, 3] ✘
+Binary Relation
+A problem is formally a binary relation between inputs and outputs. 
+Each input maps to a set of allowed outputs. Some outputs are valid; others are not.
+
+Predicate (Checker)
+A predicate answers TRUE or FALSE.
+For sorting, is_sorted(output) returns TRUE if the output satisfies the problem's constraint, FALSE otherwise.
