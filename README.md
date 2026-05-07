@@ -82,3 +82,8 @@ Each input maps to a set of allowed outputs. Some outputs are valid; others are 
 Predicate (Checker)
 A predicate answers TRUE or FALSE.
 For sorting, is_sorted(output) returns TRUE if the output satisfies the problem's constraint, FALSE otherwise.
+
+
+Critical Property — Arbitrary Input Size
+An algorithm must work for 10 users, 10⁶ users, 10¹² users — not just small examples.
+Scalability is baked into the definition of a correct algorithm.
