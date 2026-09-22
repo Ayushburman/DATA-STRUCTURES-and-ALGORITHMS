@@ -273,6 +273,7 @@ You should be able to:
 * Determine whether reconstruction is unique
 * Identify when reconstruction is impossible
 
+
 🟥 Common Trap
 
 Build-Heap = O(n), NOT O(n log n)
