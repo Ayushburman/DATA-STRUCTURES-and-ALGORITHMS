@@ -110,6 +110,7 @@ Function-ordering questions such as “arrange f(n) by growth rate” and nested
 
 Drill these until they become automatic, rather than deriving them from scratch every time.
 
+
 🟥 Common Trap
 
 Master theorem requires careful comparison of:
