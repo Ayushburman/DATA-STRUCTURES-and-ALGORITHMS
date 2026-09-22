@@ -174,6 +174,7 @@ Insert/delete at head	O(n)	O(1)
 Insert/delete at tail	O(1)*	O(1) with tail pointer, otherwise O(n)
 Search — unsorted	O(n)	O(n)
 
+
 🟨 GATE Pattern
 
 Infix → postfix conversion and postfix-expression evaluation are highly important.
