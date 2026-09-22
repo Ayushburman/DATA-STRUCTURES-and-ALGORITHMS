@@ -124,6 +124,7 @@ Know when the theorem applies — not just the formula.
 
 ⸻
 
+
 PHASE 1 — Linear Structures
 
 Days 6–10
