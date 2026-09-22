@@ -25,6 +25,7 @@ GATE DSA tests much more than simply writing code:
 * DP table construction
 * PYQ pattern recognition
 
+
 Your LeetCode Top 150 track builds implementation fluency for software/MAANG interviews.
 
 It does not fully cover:
