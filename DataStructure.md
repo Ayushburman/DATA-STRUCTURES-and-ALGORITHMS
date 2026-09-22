@@ -103,6 +103,7 @@ Concepts
     * Aggregate method
     * Low-frequency but occasionally tested
 
+
 🟨 GATE Pattern
 
 Function-ordering questions such as “arrange f(n) by growth rate” and nested-loop problems with dependent bounds are extremely important.
