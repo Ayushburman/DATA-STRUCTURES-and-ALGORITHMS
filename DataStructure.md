@@ -67,6 +67,7 @@ Phase	Topic	Days
 5	Algorithm Design Paradigms	28–33
 6	Integration Sprint	34–45 / 34–60
 
+
 ⸻
 
 PHASE 0 — Foundations
