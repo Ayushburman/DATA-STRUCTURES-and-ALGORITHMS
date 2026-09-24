@@ -19,3 +19,5 @@
 > it will take much time because of the shifting process
 > 30 -> 40 -> 50 
 
+O(N) work!
+
