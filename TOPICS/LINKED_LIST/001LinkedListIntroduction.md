@@ -21,3 +21,13 @@
 
 O(N) work!
 
+
+### 1. The Linked List Idea
+
+> Instead of forcing elements to sit next to each other in memory, we store each element in a separate node.
+
+[DATA | ADDRESS] ------> [DATA | ADDRESS] -------> [DATA | ADDRES] ------> [DATA | ADDRESS]
+
+[10 | 1001 ] ------> [20 | 1002 ] -------> [30 | 10003 ] ------> [40 | 10004]
+
+
