@@ -53,3 +53,9 @@ It stores the address of another node.
 
 --------------------------------
 
+so we need some way to find where is the first node.
+
+struct Node* head;
+
+
+
