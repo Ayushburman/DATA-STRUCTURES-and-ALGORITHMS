@@ -34,5 +34,22 @@ SINGLY LINKED LIST
 
 -------------------------------------------
 
+SYNTAX
 
+struct Node {
+    int data;
+    struct Node* next;
+};
+
+
+Node
+ ├── data
+ └── next
+
+next is a pointer.
+
+It stores the address of another node.
+
+
+--------------------------------
 
