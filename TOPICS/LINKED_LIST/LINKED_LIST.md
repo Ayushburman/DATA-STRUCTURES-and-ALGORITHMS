@@ -1,8 +1,4 @@
 
-tricky GATE cases →
-PYQ-style 
-
-a dynamic linear 
 data structure 
 where elements 
 are stored in 
