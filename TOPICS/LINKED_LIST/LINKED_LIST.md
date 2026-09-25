@@ -1,9 +1,7 @@
 
 build Linked
 Lists in C 
-absolute zer
-→ pointers/memory → 
-operations →p
+absolute 
 complexity → 
 tricky GATE cases →
 PYQ-style questions.
