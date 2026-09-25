@@ -2,7 +2,7 @@ where elements
 are stored in 
 separate memory 
 locations and 
-connected using pointers.
+connected using 
 Think of a train:
 
 [COACH 1] →
@@ -19,8 +19,7 @@ Node
 ┌──────────────┬──────────────┐
 │    data      │  next        │
 │      10      │      ────────┼──→ next node
-└──────────────┴──────────────┘
-
+└──────────────┴─
 ⸻
 
 1. Why do we need
