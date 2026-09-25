@@ -51,7 +51,8 @@ int a[5] =
 {10,
 20,30,40,50};
 
-Memory conceptually:
+Memory
+conceptually:
 
 1000 → 10
 
