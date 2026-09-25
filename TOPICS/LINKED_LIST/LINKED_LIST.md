@@ -6,7 +6,8 @@ GATE CSE from
 absolute zero →
 implementation 
 → pointers/memory → 
-operations → complexity → tricky GATE cases → PYQ-style questions.
+operations →
+complexity → tricky GATE cases → PYQ-style questions.
 
 🔗 Linked List — Complete GATE C Guide
 
