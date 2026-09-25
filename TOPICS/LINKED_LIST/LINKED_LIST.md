@@ -1,8 +1,7 @@
 Absolutely.
 Let’s 
 build Linked
-Lists in C for
-GATE CSE from 
+Lists in C 
 absolute zer
 → pointers/memory → 
 operations →p
