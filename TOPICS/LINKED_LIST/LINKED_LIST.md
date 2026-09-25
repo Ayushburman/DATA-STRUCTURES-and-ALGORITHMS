@@ -64,6 +64,7 @@ Memory conceptually:
 1008 → 30
 
 1012 → 40
+
 1016 → 50
 
 Elements are stored contiguously.
