@@ -1,5 +1,4 @@
-Absolutely.
-Let’s 
+
 build Linked
 Lists in C 
 absolute zer
