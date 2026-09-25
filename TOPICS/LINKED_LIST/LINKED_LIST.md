@@ -1,9 +1,7 @@
 
 tricky GATE cases →
 PYQ-style 
-1. understand
-2. the big picture
-A linked list is 
+
 a dynamic linear 
 data structure 
 where elements 
