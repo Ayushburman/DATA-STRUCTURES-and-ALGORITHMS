@@ -1,10 +1,4 @@
 
-
-10 20 30 40 50
-      ↓
-10 20 25 30 40 50
-Array
-elements
 may need 
 to be shifted.
 
