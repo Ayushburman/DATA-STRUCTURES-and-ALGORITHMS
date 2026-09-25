@@ -47,7 +47,8 @@ Node
 
 ⸻
 
-1. Why do we need Linked Lists?
+1. Why do we need
+2.  Linked Lists?
 
 Consider an array:
 
