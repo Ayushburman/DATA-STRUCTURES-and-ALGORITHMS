@@ -1,10 +1,4 @@
 
-Memory
-conceptually:
-
-1000 → 10
-
-1004 → 
 
 1008 →
 30
