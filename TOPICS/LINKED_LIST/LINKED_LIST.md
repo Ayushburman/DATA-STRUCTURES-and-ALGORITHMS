@@ -6,16 +6,14 @@ GATE CSE from
 absolute zero →
 implementation 
 → pointers/memory → 
-operations →
+operations →p
 complexity → 
 tricky GATE cases →
 PYQ-style questions.
 🔗 Linked List
 Complete GATE 
-
 1. understand
 2. the big picture
-
 A linked list is 
 a dynamic linear 
 data structure 
