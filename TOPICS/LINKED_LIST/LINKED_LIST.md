@@ -19,7 +19,8 @@ Complete GATE C Guide
 2. the big picture
 
 A linked list is 
-a dynamic linear data structure where elements are stored in separate memory locations and connected using pointers.
+a dynamic linear 
+data structure where elements are stored in separate memory locations and connected using pointers.
 
 Think of a train:
 
