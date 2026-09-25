@@ -11,10 +11,7 @@ Think of a train:
 
 Each coach knows:
 
-1. Its own data
-2. Where the next coach is
-
-In C:
+1. Its own 
 Node
 ┌──────────────┬──────────────┐
 │    data      │  next        │
