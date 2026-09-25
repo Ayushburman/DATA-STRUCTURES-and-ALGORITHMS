@@ -1,8 +1,6 @@
 
 build Linked
 Lists in C 
-absolute 
-complexity → 
 tricky GATE cases →
 PYQ-style questions.
 🔗 Linked List
