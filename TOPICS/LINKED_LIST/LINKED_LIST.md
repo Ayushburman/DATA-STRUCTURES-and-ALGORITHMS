@@ -3,12 +3,7 @@ are stored in
 separate memory 
 locations and 
 connected using 
-Think of a train:
-
-[COACH 1] →
-[COACH 2] →
-[COACH 3] → 
-1. Its own 
+Think of 
 Node
 ┌──────────────┬──────────────┐
 │    data      │  next        │
