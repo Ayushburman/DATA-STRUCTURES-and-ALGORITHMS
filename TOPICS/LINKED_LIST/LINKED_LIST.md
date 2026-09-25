@@ -76,7 +76,8 @@ If you want to insert 25 between 20 and 30:
 
 Array
 elements
-may need to be shifted.
+may need 
+to be shifted.
 
 Linked list avoids this by connecting nodes through pointers:
 
