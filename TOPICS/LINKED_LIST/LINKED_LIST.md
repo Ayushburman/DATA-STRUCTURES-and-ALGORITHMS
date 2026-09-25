@@ -12,7 +12,7 @@ tricky GATE cases →
 PYQ-style questions.
 
 🔗 Linked List — 
-Complete GATE C Guide
+Complete GATE C 
 
 0. First
 1. understand
