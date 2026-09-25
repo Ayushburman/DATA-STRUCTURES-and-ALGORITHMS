@@ -3,8 +3,7 @@ Let’s
 build Linked
 Lists in C for
 GATE CSE from 
-absolute zero →
-implementation 
+absolute zer
 → pointers/memory → 
 operations →p
 complexity → 
