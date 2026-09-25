@@ -10,7 +10,6 @@ operations →
 complexity → 
 tricky GATE cases →
 PYQ-style questions.
-
 🔗 Linked List
 Complete GATE 
 
