@@ -2,9 +2,7 @@
 build Linked
 Lists in C 
 tricky GATE cases →
-PYQ-style questions.
-🔗 Linked List
-Complete GATE 
+PYQ-style 
 1. understand
 2. the big picture
 A linked list is 
