@@ -15,7 +15,8 @@ PYQ-style questions.
 Complete GATE C Guide
 
 0. First
-1. understand the big picture
+1. understand
+2. the big picture
 
 A linked list is a dynamic linear data structure where elements are stored in separate memory locations and connected using pointers.
 
