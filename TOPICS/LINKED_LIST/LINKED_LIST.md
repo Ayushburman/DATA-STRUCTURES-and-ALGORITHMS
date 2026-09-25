@@ -1,5 +1,3 @@
-
-data structure 
 where elements 
 are stored in 
 separate memory 
