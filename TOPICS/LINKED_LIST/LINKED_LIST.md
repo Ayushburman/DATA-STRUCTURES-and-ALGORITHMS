@@ -72,7 +72,8 @@ If you want to insert 25 between 20 and 30:
       ↓
 10 20 25 30 40 50
 
-Array elements may need to be shifted.
+Array
+elements may need to be shifted.
 
 Linked list avoids this by connecting nodes through pointers:
 
