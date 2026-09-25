@@ -1,18 +1,3 @@
-where elements 
-are stored in 
-separate memory 
-locations and 
-connected using 
-
-└──────────────┴─
-⸻
-
-1. Why do we need
-
-
-int a[5] =
-{10,
-20,30,40,50};
 
 Memory
 conceptually:
