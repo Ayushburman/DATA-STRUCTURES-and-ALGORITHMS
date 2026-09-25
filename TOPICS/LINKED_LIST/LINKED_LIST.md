@@ -22,7 +22,6 @@ are stored in
 separate memory 
 locations and 
 connected using pointers.
-
 Think of a train:
 
 [COACH 1] →
