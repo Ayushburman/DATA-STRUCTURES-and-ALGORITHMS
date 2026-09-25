@@ -3,11 +3,7 @@ are stored in
 separate memory 
 locations and 
 connected using 
-Think of 
-Node
-┌──────────────┬──────────────┐
-│    data      │  next        │
-│      10      │      ────────┼──→ next node
+
 └──────────────┴─
 ⸻
 
