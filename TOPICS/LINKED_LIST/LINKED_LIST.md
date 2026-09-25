@@ -7,10 +7,7 @@ Think of a train:
 
 [COACH 1] →
 [COACH 2] →
-[COACH 3] → NULL
-
-Each coach knows:
-
+[COACH 3] → 
 1. Its own 
 Node
 ┌──────────────┬──────────────┐
