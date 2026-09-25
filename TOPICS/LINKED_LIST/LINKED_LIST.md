@@ -12,9 +12,7 @@ Node
 ⸻
 
 1. Why do we need
-2.  Linked Lists?
 
-Consider an array:
 
 int a[5] =
 {10,
