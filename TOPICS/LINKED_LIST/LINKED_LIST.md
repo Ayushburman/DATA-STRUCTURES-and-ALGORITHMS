@@ -304,7 +304,6 @@ int main() {
 }
 
 We have:
-
 head
  ↓
 ┌───────────┐
