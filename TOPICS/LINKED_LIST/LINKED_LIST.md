@@ -1,5 +1,4 @@
 
-1016 → 50
 
 Elements are stored contiguously.
 
