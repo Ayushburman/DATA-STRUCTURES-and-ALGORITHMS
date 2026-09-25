@@ -11,7 +11,8 @@ complexity →
 tricky GATE cases →
 PYQ-style questions.
 
-🔗 Linked List — Complete GATE C Guide
+🔗 Linked List — 
+Complete GATE C Guide
 
 0. First understand the big picture
 
