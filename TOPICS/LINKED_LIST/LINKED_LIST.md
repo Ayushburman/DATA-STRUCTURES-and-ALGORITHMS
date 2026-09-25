@@ -33,7 +33,6 @@ Each coach knows:
 2. Where the next coach is
 
 In C:
-
 Node
 ┌──────────────┬──────────────┐
 │    data      │  next        │
