@@ -23,7 +23,8 @@ a dynamic linear
 data structure 
 where elements 
 are stored in 
-separate memory locations and connected using pointers.
+separate memory 
+locations and connected using pointers.
 
 Think of a train:
 
