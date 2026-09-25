@@ -11,7 +11,7 @@ complexity →
 tricky GATE cases →
 PYQ-style questions.
 
-🔗 Linked List — 
+🔗 Linked List
 Complete GATE 
 
 0. First
