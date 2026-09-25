@@ -1,6 +1,4 @@
 
-build Linked
-Lists in C 
 tricky GATE cases →
 PYQ-style 
 1. understand
