@@ -29,7 +29,8 @@ connected using pointers.
 
 Think of a train:
 
-[COACH 1] → [COACH 2] → [COACH 3] → NULL
+[COACH 1] →
+[COACH 2] → [COACH 3] → NULL
 
 Each coach knows:
 
