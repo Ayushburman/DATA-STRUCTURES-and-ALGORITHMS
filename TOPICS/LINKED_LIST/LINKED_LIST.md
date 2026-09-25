@@ -14,7 +14,6 @@ PYQ-style questions.
 🔗 Linked List
 Complete GATE 
 
-0. First
 1. understand
 2. the big picture
 
