@@ -80,7 +80,8 @@ elements
 may need 
 to be shifted.
 
-Linked list avoids this by connecting nodes through pointers:
+Linked list 
+avoids this by connecting nodes through pointers:
 
 10 → 20 → 30 → 40 → 50
 
