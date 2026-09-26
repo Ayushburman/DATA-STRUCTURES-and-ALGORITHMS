@@ -1,5 +1,5 @@
 >
->time
+>tim
 >spac
 >
 >a
