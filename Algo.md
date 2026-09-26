@@ -1,4 +1,5 @@
 Time
 and 
-Spcae complexity Concept
+Spcae
+complexity Concept
 
