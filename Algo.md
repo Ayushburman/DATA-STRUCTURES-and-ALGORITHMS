@@ -1,6 +1,2 @@
-Time
-and 
-Spcae
-complexity 
-Concept
-
+>
+>time
