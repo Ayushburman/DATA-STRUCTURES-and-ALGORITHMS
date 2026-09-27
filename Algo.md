@@ -1,1 +1,1 @@
-Algorithms isn't 
+Algorithms 
