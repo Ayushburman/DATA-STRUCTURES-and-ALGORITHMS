@@ -1,1 +1,1 @@
-Algorithms isn't in your subject-notes 
+Algorithms isn't in your subject-
