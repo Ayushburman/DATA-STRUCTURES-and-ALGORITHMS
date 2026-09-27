@@ -1,1 +1,1 @@
-Algorithms isn't in your subject-notes library yet — 
+Algorithms isn't in your subject-notes library
